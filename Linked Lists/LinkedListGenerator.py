@@ -3,7 +3,7 @@
 from dataclasses import dataclass
 
 
-print ("Generates multiple linked list types, filled with randomly generated integers")
+print ("Generates multiple linked list types, filled with randomly generated integers from 0 to 99")
 user_choice_input = input("Select a command:\n A: Singly Linked List \n B: Doubly Linked List \n C: Adjacency Linked List \n")
 
 if user_choice_input.isalpha() != True and len(user_choice_input) != 1:
@@ -12,6 +12,9 @@ if user_choice_input.isalpha() != True and len(user_choice_input) != 1:
 
 elif user_choice_input.lower() == "a":
     print("Singly Linked List selected")
+    for x in range (1 , 10):
+        pass #add a node here
+
 
 elif user_choice_input.lower() == "b":
     print("Doubly Linked List selected")
