@@ -5,4 +5,3 @@ Based off the concepts and challenges contained within the "Cracking the Coding 
 
 ![Core Concept Table](https://raw.githubusercontent.com/Christoper-Edmunds/Core-Concepts-Demo/main/Core%20Concepts.png)
 
-Proofs of these core concepts are contained within the "core concepts" folder 
