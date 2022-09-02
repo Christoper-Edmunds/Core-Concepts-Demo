@@ -7,30 +7,30 @@ Generates multiple types of linked list and displays their contents and relation
 
 Ultimately will generate the following types of linked list
 
-Singly linked list: a one way relationship of nodes with a single pointer to the following node 
+- Singly linked list: a one way relationship of nodes with a single pointer to the following node 
 
-Doubly linked list: a two way relationship of nodes with pointers to both the previous and proceeding node
+- Doubly linked list: a two way relationship of nodes with pointers to both the previous and proceeding node
 
-Adjacency linked list: one to many relationship of nodes where a node can point from 1 to indefinite nodes
+- Adjacency linked list: one to many relationship of nodes where a node can point from 1 to indefinite nodes
 
-Circular linked list: singly or doubly linked list where the final node always points to the head node
+- Circular linked list: singly or doubly linked list where the final node always points to the head node
 
 ## Linked List Editor
 A future development module for interacting with generated linked lists, will contain the following functionality
 
-Search Nodes
+- Search Nodes
 
-Append Node
+- Append Node
 
-Prepend Node
+- Prepend Node
 
-Add Node to Specific Location
+- Add Node to Specific Location
 
-Delete Node
+- Delete specifc Node
 
-Pop Node
+- Delete End Node
 
-Delete Head Node
+- Delete Head Node
 
 
 ## Linked List GUI
