@@ -13,6 +13,8 @@ Doubly linked list: a two way relationship of nodes with pointers to both the pr
 
 Adjacency linked list: one to many relationship of nodes where a node can point from 1 to indefinite nodes
 
+Circular linked list: singly or doubly linked list where the final node always points to the head node
+
 ## Linked List Editor
 A future development module for interacting with generated linked lists, will contain the following functionality
 
