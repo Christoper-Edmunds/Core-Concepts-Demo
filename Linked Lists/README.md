@@ -8,7 +8,9 @@ Generates multiple types of linked list and displays their contents and relation
 Ultimately will generate the following types of linked list
 
 Singly linked list: a one way relationship of nodes with a single pointer to the following node 
+
 Doubly linked list: a two way relationship of nodes with pointers to both the previous and proceeding node
+
 Adjacency linked list: one to many relationship of nodes where a node can point from 1 to indefinite nodes
 
 ## Linked List Editor
