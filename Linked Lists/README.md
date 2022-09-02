@@ -1,5 +1,5 @@
 # Linked Lists
-A linked list is a data structure comprised of objects which contain data and pointers to other nodes, they are ideal for sequential data accessing but poor for random access
+A linked list is a data structure comprised of objects which contain data and pointers to other nodes, they are ideal for sequential data accessing, such as an image browser, but poor for random access, such as an unsorted database
 
 
 ## Linked List Generator
