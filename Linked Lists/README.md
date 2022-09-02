@@ -17,12 +17,19 @@ Adjacency linked list: one to many relationship of nodes where a node can point 
 A future development module for interacting with generated linked lists, will contain the following functionality
 
 Search Nodes
+
 Append Node
+
 Prepend Node
+
 Add Node to Specific Location
+
 Delete Node
+
 Pop Node
+
 Delete Head Node
+
 
 ## Linked List GUI
 
